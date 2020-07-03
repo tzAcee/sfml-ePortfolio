@@ -1,2 +1,25 @@
-﻿  main.cpp
+﻿  Ball.cpp
+D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\ml_bouncingBall\Ball.cpp(14,30): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\ml_bouncingBall\Ball.cpp(26,30): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\ml_bouncingBall\Ball.cpp(38,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\ml_bouncingBall\Ball.cpp(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\ml_bouncingBall\Ball.cpp(40,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
   ml_bouncingBall.vcxproj -> D:\Hochschule\e-portfolio-sfml\ml_bouncingBall\Debug\ml_bouncingBall.exe
